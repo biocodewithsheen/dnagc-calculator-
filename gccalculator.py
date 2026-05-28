@@ -1,0 +1,1 @@
+a=input("Enter a DNA sequence :")
