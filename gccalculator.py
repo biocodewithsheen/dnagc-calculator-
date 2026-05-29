@@ -32,9 +32,6 @@ print("GC content :",gc,"%")
 tm=(4*(g+c)+2*(a+t))
 print("The melting temperature of the given oligo is:",tm)
 
-#Finds the first occurence of AUG from 5'end
-start=dna.find("AUG")
-print("The first occurence of AUG from 5'end is",start+1)
 
 
 
