@@ -2,7 +2,7 @@ dna=input("Enter a DNA sequence :")
 
 # Calculating length of input DNA sequence 
 length=length(dna)
-print("The length of DNA sequence is:",length)
+print("The length of DNA sequence is: ",length)
 
 #Converting to upper case
 dna=dna.upper()
