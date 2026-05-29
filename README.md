@@ -8,8 +8,9 @@ Features:
    -Composition of the given sequence 
    -Computes GC content
    -Calculate the melting temperature (tm) of the oligonucleotide 
-   
+ 
 <br>
+
 Technologies :
     -Bioinformatics
     - Python
