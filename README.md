@@ -1,3 +1,3 @@
 # dnagc-calculator-
 <br>
-To calculate GC percentage in the DNA
+Takes input DNA sequence from the user,checks the length, composition of the given DNA sequence.
