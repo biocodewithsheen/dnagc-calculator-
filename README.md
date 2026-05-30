@@ -13,4 +13,4 @@ Features:
 Technologies :
 <ul="list">
    <li> -Bioinformatics</li>
-<li> Python</li>
+<li> -Python</li>
