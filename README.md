@@ -4,11 +4,13 @@ A beginner bioinformatics project in Python
 
 <br>
 Features:
-   -Checks the length of the DNA sequence 
-   -Composition of the given sequence 
-   -Computes GC content
-   -Calculate the melting temperature (tm) of the oligonucleotide 
+</ul="list">
+ <li>  -Checks the length of the DNA sequence</li> 
+  <li> -Composition of the given sequence </li>
+ <li>  -Computes GC content</li>
+  <li> -Calculate the melting temperature (tm) of the oligonucleotide </li>
 <br>
 Technologies :
-
-    -Bioinformatic, Python
+<ul="list">
+   <li> -Bioinformatics</li>
+<li> Python</li>
